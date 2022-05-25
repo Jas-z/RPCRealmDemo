@@ -1,8 +1,8 @@
 {
-    "app_id": "realmapp-rrgcw",
+    "app_id": "realmapp-fkdlv",
     "config_version": 20210101,
     "name": "RealmApp",
     "location": "US-VA",
     "deployment_model": "LOCAL",
-    "environment": "production"
+    "environment": "testing"
 }
