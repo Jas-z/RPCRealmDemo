@@ -1,0 +1,8 @@
+{
+    "field_name": "oneTitleMovies",
+    "function_name": "oneTitleMovies",
+    "input_type_format": "",
+    "on_type": "Query",
+    "payload_type": "Movie",
+    "payload_type_format": "generated-list"
+}
